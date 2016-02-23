@@ -1,0 +1,25 @@
+# Files to be ignored to commit #
+
+*~
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+*.log
+*.sql
+*.sqlite
+
+
