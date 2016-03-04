@@ -1,2 +1,2 @@
 # Samples
-C/C++ samples includes base functionality for known issues. Such us IPC, Multithreading, FileWrappers, SWTimers, Networking, Drivers
+C/C++ samples includes base functionality for known issues. Such us IPC, Multithreading, FileWrappers, SWTimers, Networking, Drivers and so on
